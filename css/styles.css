@@ -1,9 +1,17 @@
+.title {
+  font-size: 30px;
+}
+
+.under-construction {
+  font-size: 30px;
+}
+
 @media (max-width: 1028px) {
   .under-construction {
-    font-size: 2rem;
+    font-size: 40px;
   }
 
   .title {
-    font-size: 6rem;
+    font-size: 40px;
   }
 }
