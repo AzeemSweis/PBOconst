@@ -6,8 +6,8 @@ h2 {
   text-align: center;
 }
 
-/* @media (max-width: 1028px) {
+@media (max-width: 1028px) {
   body {
-    font-size: 5rem;
+    font-size: 40px;
   }
-} */
+}
